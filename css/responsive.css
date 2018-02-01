@@ -1,0 +1,198 @@
+@media (max-width: 991px) {
+  .service .content {
+    margin: 15px 0; }
+
+  .service .content h3 {
+    font-size: 23px;
+    margin: 22px 0 0; }
+
+  .service .content p {
+    font-size: 16px; }
+
+  .step-work .content br {
+    display: none; }
+  .step-work .content h3 {
+    font-size: 25px; }
+
+  .main-footer .list {
+    margin-bottom: 30px; }
+
+  .reviwes .container::before {
+    display: none; }
+
+  .video .play {
+    width: 140px;
+    height: 140px; }
+
+  .banner .women-pic {
+    width: 400px; }
+
+  .video {
+    background-position: 0; }
+
+  .video .flex {
+    min-height: 463px; }
+
+  .portfolio .content {
+    padding: 15px 15px; }
+
+  .portfolio .title h2 {
+    padding-left: 0; }
+
+  .portfolio .content-wraper .row {
+    margin: 0 -15px; }
+
+  .contact-address .text span {
+    display: block;
+    font-size: 15px;
+    line-height: 1.25; }
+    .contact-address .text span br {
+      display: none; }
+
+  .video-type .type-button a {
+    padding: 5px 10px;
+    font-size: 20px;
+    text-align: left; }
+
+  .detailes-video h3 {
+    font-size: 26px;
+    padding: 7px 0;
+    min-height: 45px; } }
+@media (max-width: 767px) {
+  .banner .women-pic {
+    display: none; }
+
+  .banner-bootom h2 {
+    font-size: 25px;
+    word-break: keep-all; }
+
+  .video h2 {
+    font-size: 33px; }
+
+  .video .flex {
+    min-height: 400px; }
+
+  .head h2 {
+    font-size: 40px; }
+
+  .reviwes .item p {
+    font-size: 22px; }
+
+  .logo-wraper {
+    position: absolute; }
+
+  .page .service-request p {
+    font-size: 21px; }
+
+  .page .service-request .btn {
+    font-size: 22px; }
+
+  .portfolio .content img {
+    max-width: 300px; }
+
+  .portfolio .title h2 {
+    text-align: center; }
+
+  #mail-send #banner-background {
+    background-image: none; }
+
+  .contact .form-left,
+  .contact .form-right {
+    max-width: 100%; }
+
+  .contact-address .phone {
+    margin-bottom: 15px; }
+
+  .video-banner-text .head h2 {
+    font-size: 38px; }
+
+  .video-type .head h2 {
+    font-size: 32px;
+    margin-bottom: 10px; }
+
+  .videos-item {
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 15px; }
+
+  .video-type {
+    padding-bottom: 25px; }
+
+  .form-padding {
+    padding: 0 15px; }
+
+  .video-form .textarea,
+  .video-form .send {
+    margin-top: 0; }
+
+  .video-form {
+    padding-top: 60px; }
+
+  .video-inner h2 {
+    font-size: 33px;
+    position: absolute;
+    top: 47px;
+    left: 0;
+    padding: 0 15px; }
+    .video-inner h2 br {
+      display: none; } }
+@media (max-width: 575px) {
+  .banner .heading h1 {
+    font: 34px/1.25 "TeX Gyre Adventor"; }
+
+  .banner .heading h2 {
+    font: 700 60px/0.83 "TeX Gyre Adventor"; }
+
+  .banner .container {
+    min-height: 385px; }
+
+  .banner-bootom h2 {
+    font-size: 20px;
+    padding: 35px 0; }
+
+  .service {
+    padding-top: 45px; }
+
+  .reviwes {
+    padding: 50px 0 80px;
+    background-position: center; }
+
+  .step-work {
+    padding: 50px 0; }
+
+  .reviwes .item p {
+    font-size: 18px; }
+
+  .video .flex {
+    display: block; }
+
+  .video h2 {
+    font-size: 33px;
+    margin-top: 52px; }
+
+  .video .play {
+    top: 38%; }
+
+  .video {
+    background-position: center; }
+
+  .page .banner h2 {
+    font-size: 46px; }
+
+  .page .head h2 {
+    padding-top: 35px; }
+
+  #banner-background {
+    background-image: none; }
+
+  .hand {
+    display: none; }
+
+  .request-send p {
+    font-size: 23px; }
+
+  .request-send {
+    padding-bottom: 50px; }
+
+  .vides-wraper, .form-padding-wraper {
+    margin: 0 -15px; } }
